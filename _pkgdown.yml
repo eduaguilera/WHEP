@@ -54,3 +54,10 @@ reference:
     Get a tidy dataframe with the found sources for different data.
   contents:
   - expand_trade_sources
+  
+- title: "Nitrogen cycles Spain"
+  desc: >
+    Functions to generate data for N inputs, outputs, production, destinies
+  contents:
+  - create_n_inputs_grafs_spain
+  - create_prod_and_destiny_grafs
